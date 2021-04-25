@@ -4,4 +4,3 @@ I'm currently a sophomore pursuing a Computer Science & Engineering degree at Th
 
 - 🔭 Current main project: TChatty
 - 📫 [Personal website](https://aqchen.com)
-- ⚡ [Sourcerer](https://sourcerer.io/alanqchen)

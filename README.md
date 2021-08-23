@@ -1,8 +1,8 @@
 ### Hello!
 
-I'm currently a rising-junior pursuing a Computer Science & Engineering degree at The Ohio State University.
+I'm currently a junior (3rd-year) student pursuing a Computer Science & Engineering degree at The Ohio State University.
 
 - 🔭 Current main project: TChatty
 - 📫 [Personal website](https://aqchen.com)
 
- Upcoming Fall 2021 SWE Intern @ Blue Origin 🚀. Formerly: Summer 2021 SWE Intern @ ULA 🚀, SWE Intern @ Caesar Creek Software 💻.
+Current Fall 2021 SWE Intern @ Blue Origin 🚀. Formerly: Summer 2021 SWE Intern @ ULA 🚀, SWE Intern @ Caesar Creek Software 💻.

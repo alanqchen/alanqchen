@@ -5,4 +5,4 @@ I'm currently a junior (3rd-year) student pursuing a Computer Science & Engineer
 - 🔭 Current main project: TChatty
 - 📫 [Personal website](https://aqchen.com)
 
-Current Fall 2021 SWE Intern @ Blue Origin 🚀. Formerly: Summer 2021 SWE Intern @ ULA 🚀, SWE Intern @ Caesar Creek Software 💻.
+Fall 2021 SWE Intern @ Blue Origin 🚀. Incoming Summer 2022 SDE Intern @ Amazon 💻. Formerly: Summer 2021 SWE Intern @ ULA 🚀, SWE Intern @ Caesar Creek Software 💻.
